@@ -8,8 +8,18 @@
     </a>
 </p>
 
-🌐 **MyPortfolio:**  [My Portfolio](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Hi my name is Alexis, im a student at `Epitech`and here is my Github Profile don't forget to check star my repos.
 
-📧 **Email:**  [alexisberlet17@gmail.com](mailto:alexisberlet17@gmail.com)
+### Contact me:
 
-💼 **LinkedIn:**  [BERLET Alexis](https://www.linkedin.com/in/alexis-berlet-dev)
+<p align="center">
+    <a href="https://www.linkedin.com/in/alexis-berlet-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="alexisberlet17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    </a>
+</p>
