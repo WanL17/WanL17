@@ -14,8 +14,29 @@ Hi my name is Alexis, im a student at `Epitech`and here is my Github Profile don
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,bash,linux,ubuntu,arch,python,docker,html,css,tailwind,js,ts,nodejs,react,postgres,go,unreal" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c" href="https://fr.wikipedia.org/wiki/C_(langage)"/>
+  <img src="https://skillicons.dev/icons?i=cpp" href="https://fr.wikipedia.org/wiki/C%2B%2B"/>
+  <img src="https://skillicons.dev/icons?i=git" href="https://git-scm.com/"/>
+  <img src="https://skillicons.dev/icons?i=github" href="https://fr.wikipedia.org/wiki/C_(langage)"/>
+  <img src="https://skillicons.dev/icons?i=bash" href="https://fr.wikipedia.org/wiki/Bourne-Again_shell"/>
+  <img src="https://skillicons.dev/icons?i=linux" href="https://fr.wikipedia.org/wiki/Linux"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" href="https://www.ubuntu-fr.org/ac"/>
+  <img src="https://skillicons.dev/icons?i=arch" href="https://archlinux.org/"/>
+  <img src="https://skillicons.dev/icons?i=python" href="https://www.python.org/"/>
+  <img src="https://skillicons.dev/icons?i=docker" href="https://www.docker.com/"/>
+  <img src="https://skillicons.dev/icons?i=html" href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language"/>
+  <img src="https://skillicons.dev/icons?i=css" href="https://en.wikipedia.org/wiki/CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" href="https://tailwindcss.com/"/>
+  <img src="https://skillicons.dev/icons?i=js" href="https://fr.wikipedia.org/wiki/JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" href="https://www.typescriptlang.org/"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" href="https://nodejs.org/en"/>
+  <img src="https://skillicons.dev/icons?i=react" href="https://fr.react.dev/"/>
+  <img src="https://skillicons.dev/icons?i=express" href="https://expressjs.com/fr/"/>
+  <img src="https://skillicons.dev/icons?i=postgres" href="https://www.postgresql.org/"/>
+  <img src="https://skillicons.dev/icons?i=mysql" href="https://www.mysql.com/"/>
+  <img src="https://skillicons.dev/icons?i=go" href="https://go.dev/"/>
+  <img src="https://skillicons.dev/icons?i=unreal" href="https://www.unrealengine.com/"/>
 </p>
 
 ## Statistics
@@ -23,9 +44,7 @@ Hi my name is Alexis, im a student at `Epitech`and here is my Github Profile don
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wanl17&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="WanL17's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wanl17&theme=transparent&count_private=true&border_radius=10&locale=en" alt="WanL17's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=wanl17&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="WanL17's Most Used Languages" />
 </div>
 
 
