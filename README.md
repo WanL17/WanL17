@@ -10,20 +10,26 @@
 
 Hi my name is Alexis, im a student at `Epitech`and here is my Github Profile don't forget to check and star my repositories.
 
-### Skills:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+## Languages and Tools
 
-### Contact me:
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,bash,linux,ubuntu,arch,python,docker,html,css,tailwind,js,ts,nodejs,react,postgres,go,unreal" />
+</p>
+
+## Statistics
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wanl17&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="WanL17's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wanl17&theme=transparent&count_private=true&border_radius=10&locale=en" alt="WanL17's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=wanl17&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="WanL17's Most Used Languages" />
+</div>
+
+
+## Contact me:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/alexis-berlet-dev">
